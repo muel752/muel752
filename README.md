@@ -106,21 +106,3 @@
 </body>
 </html>
 
-
-Pronto! Aqui está o código completo do novo site Craft, com:
-
-Visual estilo Minecraft
-
-Slogan e logo centralizados
-
-Campo de busca
-
-Botões “Ver Conteúdo”, “Sobre”, “Downloads”, “Contato”
-
-Rodapé com links para YouTube, Instagram e Discord
-
-Totalmente responsivo
-
-
-Você pode copiar esse código direto e colar no seu index.html do GitHub Pages. Quando quiser, posso te ajudar a personalizar ainda mais com páginas extras ou efeitos. Deseja que eu te ajude a testar isso agora no GitHub?
-
